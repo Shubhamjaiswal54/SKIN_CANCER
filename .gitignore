@@ -1,0 +1,29 @@
+# Example of common files/directories to ignore
+
+# Logs and databases
+log/
+*.log
+*.sqlite
+*.db
+*.h5
+
+# OS-generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Dependency directories
+node_modules/
+**/packages/
+
+# Build artifacts
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
