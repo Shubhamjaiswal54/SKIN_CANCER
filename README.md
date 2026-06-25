@@ -71,18 +71,7 @@ Feel free to explore, adapt, or extend this code for research, educational use, 
 > ⚠️ **Disclaimer**: This project is intended for **educational and research purposes only**.
 > **It is *not* a medical device** and should **not** be used to make real-life clinical diagnoses. Always consult qualified medical professionals for any health-related decision.
 
-(Optional: Add your license here, e.g. MIT License.)
-
 ---
 
 Thank you for checking out this project!
-If you use or build upon this work, feel free to get in touch / contribute.
-
-```
-
-If you like — I can also generate a **full README with badges**, **requirements**, and **usage examples** (in Markdown), which you can copy directly. Do you want me to build that for you now?
-::contentReference[oaicite:2]{index=2}
-```
-
-[1]: https://arxiv.org/abs/1907.03220?utm_source=chatgpt.com "Skin Lesion Analyser: An Efficient Seven-Way Multi-Class Skin Cancer Classification Using MobileNet"
-[2]: https://arxiv.org/abs/1912.03798?utm_source=chatgpt.com "Decision Support System for Detection and Classification of Skin Cancer using CNN"
+If you use or build upon this work, feel free to get in touch / contribute. 
